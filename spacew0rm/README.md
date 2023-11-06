@@ -12,7 +12,7 @@ In this game, YOU take control of SPACEW0RM. Clear levels to find the next wormh
 
 ## How / Why?
 
-I wrote this during COVID lockdown as a quick weekend afternoon project, just to try out DL-Pascal. It's intentionally written in 100% Pascal with no ASM code to show how quick and responsive it can be. Graphics routines used are very naive, but there is music, sound effects and the game progresses across ten levels, with increasing speed and maximum length of SPACEW0RM. Otherwise everything is pretty vanilla with no custom fonts. The game can be won to show a winning screen and music, but on the final level the vessel reaches 100% of screen length...
+I wrote this during COVID lockdown as a quick weekend afternoon project, just to try out DL-Pascal. It's intentionally written in 100% Pascal with no ASM code to show how quick and responsive it can be. Graphics routines used are very naive, but there is music, sound effects and the game progresses across ten levels, with increasing speed and maximum length of SPACEW0RM. Otherwise everything is pretty vanilla with no custom fonts. The game can be won to show a winning screen and music, but on the final level the vessel reaches 100% of screen length... Well that's a lie; I don't even know if the game can be won because I'm shit at it, but the math adds up (I think), so you are welcome to try!
 
 ## What is DL-Pascal and what is Casio PB-2000C?
 
